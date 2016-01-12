@@ -5,8 +5,8 @@ date: "2014-07-28"
 draft: false
 tags: ["bullitt"]
 categories:
-	- hauling
-	- kid bikes
+	- "hauling"
+	- "kid bikes"
 ---
 
 When I picked our oldest up from summer camp one day last week, I knew we were in trouble. He walked out, tears in his eyes, and told me he was feeling sick. Swim lessons were out, and he wasn't up for the (gradual, but long) hill back home.
