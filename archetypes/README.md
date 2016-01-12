@@ -1,0 +1,1 @@
+Archetypes Documentation: <http://gohugo.io/content/types/>
