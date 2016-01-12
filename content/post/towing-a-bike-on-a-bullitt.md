@@ -15,6 +15,7 @@ When I picked our oldest up from summer camp one day last week, I knew we were i
 I've gotten pretty good at towing kid (and adult) bikes on longtails, and have even pulled it off reasonably well on the Madsen. A front-loading bike like the Bullitt provides some new challenges, though. For small kid bikes (balance bikes and our 12″ pedal bike), I can tuck one wheel in my folding Wald baskets on the back and secure the bike with a couple of bungee cords. 20″ and bigger wheels are not as easy to tuck away, though. I also realized that I didn't have any bungee cords of my own with me, which left me with the two on the rear rack of the kid bike and one cable lock to secure our bikes together. I ended up with this:
 
 ![Rider's view photo of the Bullitt bicycle carrying a 20" wheel kids biycle](/images/post/IMG_6148-225x300.jpg)
+
 ![Profile photo of the Bullitt bicycle carrying a 20" wheel kids biycle](/images/post/IMG_6149-300x225.jpg)
 
 It wasn't elegant, but it was secure and got us home. I couldn't have pulled it off with the baby riding with me, though, so when I got home I started looking into alternatives. Here are some of the suggestions I got:
