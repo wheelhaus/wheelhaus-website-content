@@ -8,6 +8,7 @@ categories = [
 	"hauling",
 	"kid bikes"
 ]
+banner = "/images/post/IMG_6149-300x225.jpg"
 +++
 
 When I picked our oldest up from summer camp one day last week, I knew we were in trouble. He walked out, tears in his eyes, and told me he was feeling sick. Swim lessons were out, and he wasn't up for the (gradual, but long) hill back home.
