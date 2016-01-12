@@ -26,7 +26,6 @@ Shawn is a 30-something who has been a bike commuter since 2005. Since 2011 bike
 <!--
 
 * Martin Medero
-* Shawn Medero
 
 -->
 
