@@ -46,7 +46,7 @@ footnotereturnlinkcontents = "↩"
 [[params.menu]]
     before = true
     label  = "About"
-    link   = "/About/"
+    link   = "/about/"
 
 #[[params.menu]]
 #    before = false
