@@ -27,7 +27,7 @@ footnotereturnlinkcontents = "↩"
     location = "Claremont, California"
     site_description = "We are a family that bikes together. Commuting by bike is our passion and we love talking about cargo bikes and riding with kids. We don’t own a car but we are not anti-car. Teaching our community how to enjoy biking and helping others get started is how we roll."
     copyright  = "© 2016 Wheelha.us"
-    avatar = "images/logo.png"
+    avatar = "css/images/avatar.png"
 
     # Format dates with Go's time formatting
     date_format = "2006-01-02"
