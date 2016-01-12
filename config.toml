@@ -43,6 +43,11 @@ footnotereturnlinkcontents = "↩"
     label  = "Home"
     link   = "/"
 
+[[params.menu]]
+    before = true
+    label  = "About"
+    link   = "/About/"
+
 #[[params.menu]]
 #    before = false
 #    label  = "Tags"
