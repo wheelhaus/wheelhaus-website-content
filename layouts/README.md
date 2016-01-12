@@ -1,0 +1,1 @@
+Layouts Documentation: <http://gohugo.io/templates/overview/>
