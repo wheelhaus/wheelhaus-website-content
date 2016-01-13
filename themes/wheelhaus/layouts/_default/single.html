@@ -1,9 +1,11 @@
 {{ partial "head" . }}
 {{ partial "header" . }}
 
-	<div class="outer">
-	{{ partial "single_article" . }}
-	</div>
+	<section class="content">
+		<main class="main" role="main">
+			{{ partial "single_article" . }}
+		</main>
+	</section>
 
 	{{ partial "footer" . }}
 
