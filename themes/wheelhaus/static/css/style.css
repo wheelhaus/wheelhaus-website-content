@@ -336,6 +336,11 @@ Single styles
 
 .img-responsive { max-width: 100%; }
 
+.single-article .article-header .article-title
+{
+  margin-bottom: 0;
+}
+
 .article-list .article-header a,
 .article-list .article-header a:visited,
 .article-list .article-header a:hover
