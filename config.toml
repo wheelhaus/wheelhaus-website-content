@@ -6,7 +6,7 @@ destination = "/var/www/wheelhaus/public"
 # Define the number of posts per site
 paginate = 10
 
-theme = "hugo-icarus-theme"
+theme = "wheelhaus"
 
 # Theme config
 

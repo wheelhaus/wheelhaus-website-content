@@ -1,0 +1,25 @@
+			<header id="masthead" class="header">
+				<h1 class="header-heading">
+					<a href="{{ .Site.BaseURL }}" rel="home" aria-label="Home">
+						<img class="logo" src="{{ .Site.BaseURL }}images/logo.png" alt="" scale="0" />
+						{{ .Site.Title }}
+					</a>
+				</h1>
+			</header>
+			<div class="nav-bar">
+				<ul class="nav">				
+					{{ range .Site.Params.menu }}
+					{{ if .before }}
+					<li><a class="main-nav-link" href="{{ .link | absURL }}">{{ .label }}</a></li>
+					{{ end }}
+					{{ end }}
+					{{ range .Site.Menus.main }}
+					<li><a class="main-nav-link" href="{{ .URL }}">{{ .Name }}</a></li>
+					{{ end }}
+					{{ range .Site.Params.menu }}
+					{{ if not .before }}
+					<li><a class="main-nav-link" href="{{ .link | absURL }}">{{ .label }}</a></li>
+					{{ end }}
+					{{ end }}
+				</ul>
+			</div>
