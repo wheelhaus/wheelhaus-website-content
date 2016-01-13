@@ -4,6 +4,7 @@
         {{ .Title }}
     </h1>
     </a>
+    {{ if not .Title == "About Wheelha.us" }}
     <div class="article-meta">
         <div class="article-date">
             <time datetime="{{ .Date }}" itemprop="datePublished">{{ .Date.Format .Site.Params.date_format }}</time>
@@ -40,4 +41,5 @@
             {{ end }}
         {{ end }}
     </div>
+    {{ end }}
 </header>
