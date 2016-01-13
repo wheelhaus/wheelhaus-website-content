@@ -1,0 +1,13 @@
+name = "Wheelhaus"
+license = "MIT"
+licenselink = ""
+description = ""
+homepage = ""
+tags = ["syntax highlighting", "maxthjax", "rss", "responsive"]
+features = ["syntax highlighting", "maxthjax", "rss", "responsive"]
+min_version = 0.15
+
+[author]
+  name = "Shawn Medero"
+  homepage = "//github.com/soypunk"
+
