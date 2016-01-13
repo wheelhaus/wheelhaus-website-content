@@ -9,9 +9,13 @@
             {{ end }}
 
             {{ partial "article_header" . }}
+            
+            <hr>
+            
             <div class="article-entry" itemprop="articleBody">
                 {{ .Content }}
             </div>
+            
             {{ partial "article_footer" . }}
         </div>
 
