@@ -423,7 +423,7 @@ Single styles
 .btn:hover
 {
 	color: #fff !important;
-	background-color: green;
+	background-color: #bf360c;
 }
 
 .btn:focus
