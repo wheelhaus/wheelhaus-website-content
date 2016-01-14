@@ -19,7 +19,7 @@ footnotereturnlinkcontents = "↩"
 
 [permalinks]
     post = "/archives/:year/:month/:day/:slug"
-	archive: /archives/
+	archive = "/archives/"
 
 [params]
     # Tell me who you are
