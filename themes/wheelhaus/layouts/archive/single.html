@@ -3,16 +3,15 @@
 
 	<section class="content single-article">
 		<main class="main" role="main">
-
-		{{ range .Site.Pages.GroupByDate "2006" }}
-			{{ if ge .Key 2002 }}
-				<h3 class="center">{{ .Key }}</h3>        
-				<p>
-				{{ range .Pages }} &middot; {{if not (isset .Params "grlog") }}<time><em>{{ .Date.Format "January 2" }}</em></time>, {{ end }}<a href="{{ .Permalink }}">{{ .Title | safeHTML }}</a> {{ end }}
-				</p>
+			<h1>Archives</h1>
+			{{ range .Site.Pages.GroupByDate "2006" }}
+				{{ if ge .Key 2002 }}
+					<h3 class="center">{{ .Key }}</h3>        
+					<p>
+					{{ range .Pages }} &middot; {{if not (isset .Params "grlog") }}<time><em>{{ .Date.Format "January 2" }}</em></time>, {{ end }}<a href="{{ .Permalink }}">{{ .Title | safeHTML }}</a> {{ end }}
+					</p>
+				{{ end }}
 			{{ end }}
-		{{ end }}
-
 		</main>
 	</section>
 
