@@ -4,7 +4,7 @@
 	<section class="content single-article">
 		<main class="main" role="main">
 
-		{{ range where .Data.Pages.GroupByDate "2006" "Section" "post" }}
+		{{ range .Data.Pages.GroupByDate "2006" }}
 			{{ if ge .Key 2002 }}
 				<h3 class="center">{{ .Key }}</h3>        
 				<p>
