@@ -2,6 +2,7 @@ baseurl = "http://wheelha.us/"
 languageCode = "en-us"
 title = "Wheelha.us"
 destination = "/var/www/wheelhaus/public"
+CanonifyUrls = true
 
 # Define the number of posts per site
 paginate = 10
