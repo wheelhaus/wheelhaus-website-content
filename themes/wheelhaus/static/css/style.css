@@ -337,7 +337,8 @@ h1.header-heading a:visited {
 Single styles
 ------------------------*/
 
-main h1:first-child {
+main > h1:first-child,
+header h1.article-title {
   color: #bf360c;
 }
 
