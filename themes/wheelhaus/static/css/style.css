@@ -225,11 +225,6 @@ body > .container > header
 	padding: 1em 1.25em;
 }
 
-.header-heading h1
-{
-  line-height: 1;
-}
-
 .header-heading,
 .nav-bar
 { 
@@ -240,6 +235,7 @@ body > .container > header
 { 
   margin: 0;
   padding: 0.5em 0;
+  line-height: 1;
 }
 
 .nav-bar
