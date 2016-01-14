@@ -18,7 +18,8 @@ theme = "wheelhaus"
 footnotereturnlinkcontents = "↩"
 
 [permalinks]
-    post = "/:year/:month/:day/:slug"
+    post = "/archives/:year/:month/:day/:slug"
+	archive: /archives/
 
 [params]
     # Tell me who you are
