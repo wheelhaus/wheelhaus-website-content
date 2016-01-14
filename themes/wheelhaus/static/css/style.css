@@ -102,7 +102,7 @@ body
 	padding: 0;
 	color: #333;
 	background-color: #fdfdfd;
-	font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+	font: 1em/1.2 'Palatino Linotype', 'Palatino LT STD', 'Book Antiqua', Palatino, Georgia, serif;
 }
 
 h1,h2,h3,h4,h5,h6
@@ -225,7 +225,12 @@ body > .container > header
 	padding: 1em 1.25em;
 }
 
-.header-heading { margin: 0; padding: 0.5em 0; }
+.header-heading
+{ 
+  margin: 0;
+  padding: 0.5em 0;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
+}
 
 .nav-bar
 {
