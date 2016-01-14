@@ -1,7 +1,7 @@
 +++
 title = "Harvey Mudd's Ice Cream Bike"
 author = "Julie Medero"
-date = "2014-07-2"
+date = "2014-07-02"
 draft = false
 tags = ["trikes"]
 categories = [ 
