@@ -225,11 +225,15 @@ body > .container > header
 	padding: 1em 1.25em;
 }
 
+.header-heading,
+.nav-bar
+{ 
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
+
 .header-heading
 { 
   margin: 0;
   padding: 0.5em 0;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
 }
 
 .nav-bar
