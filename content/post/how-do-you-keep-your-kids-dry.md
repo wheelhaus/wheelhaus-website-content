@@ -24,7 +24,7 @@ For our kids we’ve (and they!) have been very happy with the [Tuffo Muddy Budd
 
 For the Madsen there’s always the mythical Rain Cover from Madsen itself. It has been in development for a long time but when it comes it’ll fit all the Madsen Cycle buckets produced to date. Madsen’s own website shows an availability date of “early 2011″ that has come and gone but they did post some shots of [a prototype rain cover to their Twitter account back in February of 2012][5]. Needless to say, the long delay in an official rain cover has led to many building their own custom solutions. Local favorite Matt of Tacoma Bike Ranch has a great post on their [custom Madsen orange rain cover][6] which also happens to add a nice bit of visibility to your Madsen if the conditions aren’t that great. (Be sure to check out their awesome recent post on [kid bike fenders][7]). Julie is currently talking to Matt about having him make a frame for our Madsen and we’ll supply the fabric ourselves. We’ll keep you updated.
 
-## Big Dummy
+## Big Dummy / Xtracycle Options
 
 Big Dummy owners tend to be a highly DIY minded group. It seems doubtful Surly will ever release a rain cover for the Big Dummy’s passengers: it isn’t their market nor would it work with their brand image. Personally I haven’t tried any covers on my Dummy as the kids have been very happy in their Muddy Buddies and Seattle’s record drought hasn’t given me much of a chance. Still there’s some amazing stuff out there:
 
