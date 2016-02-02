@@ -205,6 +205,13 @@ img
 	max-width: 100%;
 	/* Adhere to container width. */
 }
+
+img.right {
+    float: right;
+    margin: 0 0 7px 7px;
+}
+
+
 	@media only screen and (max-width: 374px) {
     	img { float: none; }
     }

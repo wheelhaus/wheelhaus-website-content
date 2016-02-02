@@ -28,11 +28,9 @@ For the Madsen there’s always the mythical Rain Cover from Madsen itself. It h
 
 Big Dummy owners tend to be a highly DIY minded group. It seems doubtful Surly will ever release a rain cover for the Big Dummy’s passengers: it isn’t their market nor would it work with their brand image. Personally I haven’t tried any covers on my Dummy as the kids have been very happy in their Muddy Buddies and Seattle’s record drought hasn’t given me much of a chance. Still there’s some amazing stuff out there:
 
-* [Pedal Powered Family's][8] made a [sleek-looking cover and documented it on Flickr][9]
+* [Pedal Powered Family's][8] made a [sleek-looking cover and documented it on Flickr][9] <a href="http://www.flickr.com/photos/pedalpoweredfamily/5724461541/"><img class="right" src="http://wheelha.us/images/post/5724461541_e74b626cc4_z.jpg" alt="Man with cargo bicycle and a rain cover protecting his two children sitting on the rear of the bike"></a>
 * [Anthony Stout had his Big Dummy cover][10] featured by Xtracycle some time ago and
 * [Lindsay's Yuba rain cover hack][11] would probably work on nearly any Xtracycle rig with a bit of creativity
-
-<a href="http://www.flickr.com/photos/pedalpoweredfamily/5724461541/"><img src="http://wheelha.us/images/post/5724461541_e74b626cc4_z.jpg" alt="Man with cargo bicycle and a rain cover protecting his two children sitting on the rear of the bike"></a>
 
 [1]: https://www.facebook.com/groups/ILoveMySurlyBigDumy/
 [2]: https://www.facebook.com/groups/ILoveMySurlyBigDumy/permalink/10151050529112581/
