@@ -45,4 +45,4 @@ Big Dummy owners tend to be a highly DIY minded group. It seems doubtful Surly w
 [9]: http://www.flickr.com/photos/pedalpoweredfamily/sets/72157626730461656/
 [10]: http://longwalktogreen.blogspot.com/2008_12_29_archive.html
 [11]: http://youaintgotjack.blogspot.ca/p/diy-childs-bike-seat-weather-protection.html
-[12]: http://www.flickr.com/photos/pedalpoweredfamily/5724461541/
+
