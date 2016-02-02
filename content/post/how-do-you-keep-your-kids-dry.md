@@ -32,8 +32,7 @@ Big Dummy owners tend to be a highly DIY minded group. It seems doubtful Surly w
 * [Anthony Stout had his Big Dummy cover][10] featured by Xtracycle some time ago and
 * [Lindsay's Yuba rain cover hack][11] would probably work on nearly any Xtracycle rig with a bit of creativity
 
-[![Man with cargo bicycle and a rain cover protecting his two children sitting on the rear of the bike](/images/post/5724461541_e74b626cc4_z.jpg)][12]
-
+<a href="http://www.flickr.com/photos/pedalpoweredfamily/5724461541/"><img src="http://wheelha.us/images/post/5724461541_e74b626cc4_z.jpg" alt="Man with cargo bicycle and a rain cover protecting his two children sitting on the rear of the bike"></a>
 
 [1]: https://www.facebook.com/groups/ILoveMySurlyBigDumy/
 [2]: https://www.facebook.com/groups/ILoveMySurlyBigDumy/permalink/10151050529112581/
