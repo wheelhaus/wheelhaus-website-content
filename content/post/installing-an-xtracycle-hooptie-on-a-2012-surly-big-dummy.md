@@ -13,7 +13,7 @@ I pre-ordered a 1st generation [Xtracycle Hooptie][1] months ago that I found ha
 
 Installation of the Hooptie on the Big Dummy was generally straightforward but I thought I'd walk through the process and point out a few things. I'll point out where getting the Hooptie from the "wide" to the "narrow" setting was a complete pain in the rear for me at least (My sample size of two suggests that this may not be a unique experience.)
 
-<img class="right thumbnail" src="/images/post/IMG_1585.jpg" alt=""> Most importantly let's hold up a second before digging into the nuts & bolts — the Hooptie is super cool and my kids love it. We've outgrown our iBert and while my cheaply rigged stoker bar setup on the Big Dummy worked for one five-to-six-year old kid without having additional support it is hard to offer to help other less-cargo-friendly kids (school, playdates, etc.) The Hooptie allows me to carry up to three kids on my Xtracycle Flight Deck, provides some nice visibility around the kids, and should give most parents some peace of mind about their safety.
+<img class="right thumbnail200" src="/images/post/IMG_1585.jpg" alt=""> Most importantly let's hold up a second before digging into the nuts & bolts — the Hooptie is super cool and my kids love it. We've outgrown our iBert and while my cheaply rigged stoker bar setup on the Big Dummy worked for one five-to-six-year old kid without having additional support it is hard to offer to help other less-cargo-friendly kids (school, playdates, etc.) The Hooptie allows me to carry up to three kids on my Xtracycle Flight Deck, provides some nice visibility around the kids, and should give most parents some peace of mind about their safety.
 
 ## What comes in the box
 
