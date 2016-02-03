@@ -21,12 +21,12 @@ Just like it says: 2 steel brackets, 2 U-Tubes, Screws, Nuts. You'll need a 4mm 
 
 <!-- image -->
 <div class="gallery row grid2">
-<img class="" src="/images/post/IMG_1582.jpg" alt="">
-<img class="" src="/images/post/IMG_1583.jpg" alt="">
+<a href="/images/post/IMG_1582.jpg"><img class="" src="/images/post/IMG_1582.jpg" alt=""></a>
+<a href="/images/post/IMG_1583.jpg"><img class="" src="/images/post/IMG_1583.jpg" alt=""></a>
 </div>
 <div class="gallery row grid2">
-<img class="" src="/images/post/IMG_1587.jpg" alt="">
-<img class="" src="/images/post/IMG_1586.jpg" alt="">
+<a href="/images/post/IMG_1587.jpg"><img class="" src="/images/post/IMG_1587.jpg" alt=""></a>
+<a href="/images/post/IMG_1586.jpg"><img class="" src="/images/post/IMG_1586.jpg" alt=""></a>
 </div>
 
 Xtracycle doesn't ship any paper instructions but they do provide a [Hooptie Installation video on YouTube][2] that seems sufficient for most purposes.
@@ -37,17 +37,17 @@ Install the two steel brackets. There's no suggested order in the instructions. 
 
 <!-- image -->
 <div class="gallery row grid2">
-<img class="" src="/images/post/IMG_1592.jpg" alt="">
-<img class="" src="/images/post/IMG_1588.jpg" alt="">
+<a href="/images/post/IMG_1592.jpg"><img class="" src="/images/post/IMG_1592.jpg" alt=""></a>
+<a href="/images/post/IMG_1588.jpg"><img class="" src="/images/post/IMG_1588.jpg" alt=""></a>
 </div>
 
 When I started on the bracket for the rear of the deck I realized I wouldn't be able to tighten the screws & nuts the same way as I had for the front bracket. I needed to unmount the FlightDeck from the Xtracycle frame. It is quite possible I should've unmounted the FlightDeck entirely and installed the Hooptie to it and then remounted the FlightDeck. The instructions don't suggest doing this but it probably makes it easier to work on. Either way, you now have two brackets installed and ready for the U-Tubes.
 
 <!-- image -->
 <div class="gallery row grid3">
-<img class="" src="/images/post/IMG_1596.jpg" alt="">
-<img class="" src="/images/post/IMG_1594.jpg" alt="">
-<img class="" src="/images/post/IMG_1597.jpg" alt="">
+<a href="/images/post/IMG_1596.jpg"><img class="" src="/images/post/IMG_1596.jpg" alt=""></a>
+<a href="/images/post/IMG_1594.jpg"><img class="" src="/images/post/IMG_1594.jpg" alt=""></a>
+<a href="/images/post/IMG_1597.jpg"><img class="" src="/images/post/IMG_1597.jpg" alt=""></a>
 </div>
 
 Now install the U-Tubes. This requires a lot of patience as the fittings are extremely tight. I scratched up the U-Tubes installing them into the brackets. I had another bike shop tell me the Hooptie's U-Tubes were difficult to adjust as well. I assume this is just a production issue, perhaps related to the paint coating.
@@ -58,9 +58,9 @@ Switching the U-Tubes from the "Wide" setting to the "Narrow" setting required a
 
 <!-- image -->
 <div class="gallery row grid3">
-<img class="" src="/images/post/IMG_1599.jpg" alt="">
-<img class="" src="/images/post/IMG_1600.jpg" alt="">
-<img class="" src="/images/post/IMG_1601.jpg" alt="">
+<a href="/images/post/IMG_1599.jpg"><img class="" src="/images/post/IMG_1599.jpg" alt=""></a>
+<a href="/images/post/IMG_1600.jpg"><img class="" src="/images/post/IMG_1600.jpg" alt=""></a>
+<a href="/images/post/IMG_1601.jpg"><img class="" src="/images/post/IMG_1601.jpg" alt=""></a>
 </div>
 
 ## Now what?
