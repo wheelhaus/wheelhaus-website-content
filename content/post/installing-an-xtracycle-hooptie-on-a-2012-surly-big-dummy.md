@@ -58,9 +58,9 @@ Switching the U-Tubes from the "Wide" setting to the "Narrow" setting required a
 
 <!-- image -->
 <div class="gallery row grid3">
-<img class="" src="/images/post/IMG_1599" alt="">
-<img class="" src="/images/post/IMG_1600" alt="">
-<img class="" src="/images/post/IMG_1601" alt="">
+<img class="" src="/images/post/IMG_1599.jpg" alt="">
+<img class="" src="/images/post/IMG_1600.jpg" alt="">
+<img class="" src="/images/post/IMG_1601.jpg" alt="">
 </div>
 
 ## Now what?

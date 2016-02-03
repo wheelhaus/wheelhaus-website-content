@@ -246,6 +246,8 @@ img.right {
 } 
 
 .gallery .grid2 img {
+    width: 45% !important;
+    height: auto !important;
 }
 
 .gallery .grid3 {
@@ -258,6 +260,8 @@ img.right {
 }
 
 .gallery .grid3 img {
+    width: 30% !important;
+    height: auto !important;
 }
 
 	@media only screen and (max-width: 400px) {
