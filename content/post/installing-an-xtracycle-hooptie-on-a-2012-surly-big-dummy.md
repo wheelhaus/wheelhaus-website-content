@@ -54,7 +54,7 @@ Now install the U-Tubes. This requires a lot of patience as the fittings are ext
 
 Generally moving the U-Tubes into the "Wide" setting was more or less straight-forward so long as you installed them into the front and rear brackets equally — That is, don't shove the U-Tube into the rear bracket all the way and then the front. No, instead you want to insert them into the brackets equally, sliding them in a bit at a time on each side.
 
-Switching the U-Tubes from the "Wide" setting to the "Narrow" setting required applying insane amounts of force, flipping the U-Tubes around, switching which side they were on and a magic dance in-order to get them into the "Narrow" holes. Julie and I both dug in our heals and managed to force the U-Tubes into the brackets' narrow setting. I later applied some light grease to the U-Tubes and now I can alternate between "Narrow" and "Wide" with somewhat less difficulty.
+Switching the U-Tubes from the "Wide" setting to the "Narrow" setting required applying intense amounts of force, flipping the U-Tubes around, switching which side they were on and a magic dance in-order to get them into the "Narrow" holes. Julie and I both dug in our heals and managed to force the U-Tubes into the brackets' narrow setting. I later applied some light grease to the U-Tubes and now I can alternate between "Narrow" and "Wide" with somewhat less difficulty.
 
 <!-- image -->
 <div class="gallery row grid3">
@@ -80,7 +80,7 @@ I also added some reflective tape around the rear of Hooptie mostly because I co
 <!-- image -->
 <a href="https://twitter.com/familyride/status/273485420585693184/photo/1"><img class="" src="/images/post/A8udioHCMAAbtUn.jpeg" alt=""></a>
 
-And that's how I installed a Hooptie on my Big Dummy. My youngest kid has let me know that the Hooptie is "his best" and there's a huge smile all over his face when riding in it. I don't think much has changed for my older kid but I do look forward to carting some of his friends around now. It is a bit weird to be riding a bike around without a front-mounted kids seat after 5 years of an [iBert][3] being a permanent fixture in our daily commute. I'll miss talking to the kid in the front but I know my boys will enjoy hanging out with each other on the back.
+And that's how I installed an Xtracycle Hooptie on my Big Dummy. My youngest kid has let me know that the Hooptie is "his best" and there's a huge smile all over his face when riding in it. I don't think much has changed for my older kid but I do look forward to carting some of his friends around now. It is a bit weird to be riding a bike around without a front-mounted kids seat after 5 years of an [iBert][3] being a permanent fixture in our daily commute. I'll miss talking to the kid in the front but I know my boys will enjoy hanging out with each other on the back.
 
 [1]: http://www.xtracycle.com/cargo-bicycles/xtracycle-cargo-accessories/kids-and-family/hooptie.html
 [2]: http://www.youtube.com/watch?feature=player_embedded&v=ZegZIjVk8X8

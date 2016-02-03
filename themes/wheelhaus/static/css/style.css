@@ -279,8 +279,8 @@ img.thumbnail200 {
 */
 
 	@media only screen and (max-width: 400px) {
-    	.gallery .grid2,
-    	.gallery .grid3 {
+    	.grid2,
+    	.grid3 {
           -webkit-column-count: 1;
           -webkit-column-gap: 0;
           -moz-column-count: 1;
