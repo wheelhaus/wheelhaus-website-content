@@ -211,10 +211,67 @@ img.right {
     margin: 0 0 7px 7px;
 }
 
-
-	@media only screen and (max-width: 374px) {
+	@media only screen and (max-width: 400px) {
     	img { float: none; }
     }
+
+.gallery {
+    line-height: 0;
+}
+
+.gallery img {
+    width: 100% !important;
+    height: auto !important;
+}
+
+.gallery .row:before,
+.gallery .row:after,
+.clearfix:before,
+.clearfix:after {
+	content: " ";
+	/* 1 */
+	display: table;
+	/* 2 */
+}
+.gallery .row:after,
+.clearfix:after { clear: both; }
+
+.gallery .grid2 {
+    -webkit-column-count: 2;
+    -webkit-column-gap: 2%;
+    -moz-column-count: 2;
+    -moz-column-gap: 2%;
+    column-count: 2;
+    column-gap: 2%;
+} 
+
+.gallery .grid2 img {
+}
+
+.gallery .grid3 {
+    -webkit-column-count: 3;
+    -webkit-column-gap: 2%;
+    -moz-column-count: 3;
+    -moz-column-gap: 2%;
+    column-count: 3;
+    column-gap: 2%;
+}
+
+.gallery .grid3 img {
+}
+
+	@media only screen and (max-width: 400px) {
+    	.gallery .grid2,
+    	.gallery .grid3 {
+          -webkit-column-count: 1;
+          -webkit-column-gap: 0;
+          -moz-column-count: 1;
+          -moz-column-gap: 0;
+          column-count: 1;
+          column-gap: 0;
+    	}
+    }
+
 
 /* -----------------------
 Layout styles
