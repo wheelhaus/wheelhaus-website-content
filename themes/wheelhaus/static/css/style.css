@@ -211,6 +211,11 @@ img.right {
     margin: 0 0 7px 7px;
 }
 
+img.thumbnail {
+    width: 150px;
+    height: auto;
+}
+
 	@media only screen and (max-width: 400px) {
     	img { float: none; }
     }
